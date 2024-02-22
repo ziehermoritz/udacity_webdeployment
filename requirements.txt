@@ -1,0 +1,4 @@
+plotly=5.9.0
+openpyxl=3.0.10
+pandas=2.0.3
+flask=2.2.5
